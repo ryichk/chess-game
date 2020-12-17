@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Random Chess Game App Sample
+
+play random chess with computer.
+
+[How to Create a Simple Chess App With React](https://levelup.gitconnected.com/how-to-create-a-simple-chess-app-with-react-e18c0179b167)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
